@@ -1,0 +1,9 @@
+public class Task1
+{
+    public void DoSomething()
+    {
+        // This will be shown in Monaco editor at bottom of the page as a code template
+        // Output of this will be compared to output.txt
+        Console.WriteLine("Hello World");
+    }
+}
